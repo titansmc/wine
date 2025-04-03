@@ -10,6 +10,6 @@
 
 # Example
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/XKj6L24Zpd0)
+[![Watch the video](https://img.youtube.com/vi/XKj6L24Zpd0/maxresdefault.jpg)](https://youtu.be/XKj6L24Zpd0)
 
 https://youtu.be/XKj6L24Zpd0
