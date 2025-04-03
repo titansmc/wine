@@ -1,7 +1,7 @@
 # Descripción del repo
-`dataset.csv` Fichero descargado de UCI machine learning repo que contiene los datasets del vino.
-
 `env.sh` Secuencia de comandos a ejecutar para preparar el entorno.
+
+`dataset.csv` Fichero descargado de UCI machine learning repo que contiene los datasets del vino.
 
 `example.py` Fichero ejemplo de UCI repo para trabajar directamente sobre API UCI.
 
