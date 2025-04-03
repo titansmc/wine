@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Cargar el dataset
 file_path = "dataset.csv"  # Cambiar por la ruta correcta del archivo CSV
-df = pd.read_csv(file_path, delimiter=';')
+df = pd.read_csv(file_path, delimiter=',')
 
 # Crear el gráfico
 plt.figure(figsize=(8,5))
