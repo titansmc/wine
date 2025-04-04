@@ -16,6 +16,11 @@ Esto nos ha generado una imagen en nuestro directorio local donde lo hemos ejecu
 
 ```xdg-open image.png```
 
+# Example
+
+[![Watch the video](https://img.youtube.com/vi/XKj6L24Zpd0/maxresdefault.jpg)](https://youtu.be/XKj6L24Zpd0)
+
+
 # Exercise 2
 
 Aquí tenemos otro dataset pero ahora con un procesamiento mas sofisticado, haciendo uso de una herramienta que se llama `jupyter notebooks`. 
@@ -25,9 +30,3 @@ Para esto, debemos acceder al directorio ```exercise-2``` del repo y ejecutar el
 ```jupyter notebook```
 
 ![alt text](https://github.com/titansmc/wine/blob/master/notebook-plot.png "Jupyter notebook")
-
-# Example
-
-[![Watch the video](https://img.youtube.com/vi/XKj6L24Zpd0/maxresdefault.jpg)](https://youtu.be/XKj6L24Zpd0)
-
-
