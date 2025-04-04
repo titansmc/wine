@@ -12,6 +12,10 @@ Este comando ejecuta el script python para generar un gráfico.
 
 ```python3 wine.py```
 
+Esto nos ha generado una imagen en nuestro directorio local donde lo hemos ejecutado. Ahora abrimos la imagen con el visor por defecto ejecutando el siguiente comando.
+
+```xdg-open image.png```
+
 
 # Example
 
