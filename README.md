@@ -12,9 +12,17 @@ Este comando ejecuta el script python para generar un gráfico con el nombre ìm
 
 ```python3 wine.py```
 
-Esto nos ha generado una imagen en nuestro directorio local donde lo hemos ejecutado. Ahora abrimos la imagen con el visor por defecto ejecutando el siguiente comando.
+Esto nos ha generado una imagen en nuestro directorio local donde lo hemos ejecutado. Ahora abrimos la imagen con el visor por defecto o ejecutando el siguiente comando.
 
 ```xdg-open image.png```
+
+# Exercise 2
+
+Aquí tenemos otro dataset pero ahora con un procesamiento mas sofisticado, haciendo uso de una herramienta que se llama '''jupyter notebooks'''. 
+
+Para esto, debemos acceder al directorio ```exercise-2``` del repo y ejecutar el siguiente comando.
+
+```jupyter notebook```
 
 
 # Example

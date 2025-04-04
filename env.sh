@@ -10,6 +10,6 @@ python3 -m venv datascience
 source datascience/bin/activate
 
 # Instalamos librerias que usa nuestro script
-pip install pandas matplotlib ucimlrepo
+pip install pandas matplotlib ucimlrepo seaborn
 
 
