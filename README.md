@@ -9,6 +9,7 @@
 
 # Ejecutar script
 Este comando ejecuta el script python para generar un gráfico.
+
 ```python3 wine.py```
 
 
