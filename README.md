@@ -8,7 +8,7 @@
 `wine.py` fichero generado por ChatGP para pintar un gráfico.
 
 # Ejecutar script
-Este comando ejecuta el script python para generar un gráfico.
+Este comando ejecuta el script python para generar un gráfico con el nombre ìmage.png`en el mismo directorio..
 
 ```python3 wine.py```
 
