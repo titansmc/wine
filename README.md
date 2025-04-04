@@ -24,6 +24,7 @@ Para esto, debemos acceder al directorio ```exercise-2``` del repo y ejecutar el
 
 ```jupyter notebook```
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/notebook-plot.png "Jupyter notebook")
 
 # Example
 
