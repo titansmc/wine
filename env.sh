@@ -30,6 +30,6 @@ python3 -m venv datascience
 source datascience/bin/activate
 
 # Instalamos librerias que usa nuestro script
-pip install pandas matplotlib ucimlrepo jupyter seaborn
+pip install pandas matplotlib ucimlrepo jupyter seaborn scikit-learn xgboost
 
 
