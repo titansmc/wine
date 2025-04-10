@@ -1,5 +1,5 @@
 # Descripción del repo
-`env.sh` Secuencia de comandos a ejecutar para preparar el entorno. *Ejecutamos este fichero sin necesidad de ser root, ya que nos pide el password y se lo pasa a las ordenes que necesitan de root*
+`env.sh` Secuencia de comandos a ejecutar para preparar el entorno. ***Ejecutamos este fichero sin necesidad de ser root, ya que nos pide el password y se lo pasa a las ordenes que necesitan de root***
 
 `dataset.csv` Fichero descargado de UCI machine learning repo que contiene los datasets del vino.
 
